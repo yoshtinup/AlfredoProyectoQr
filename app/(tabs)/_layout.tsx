@@ -44,7 +44,7 @@ export default function TabLayout() {
         name="informacion"
         options={{
           title: 'Informacion',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="qrcode.viewfinder" color={color} />,
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="scanner.fill" color={color} />,
         }}
         />
     </Tabs>

@@ -1,6 +1,5 @@
-// app/(tabs)/informacion.tsx
-import { View } from "react-native";
-import QRScanner from "../components/scanner";
+import { View } from 'react-native';
+import QRScanner from '../components/QRScanner';
 
 export default function Informacion() {
   return (
